@@ -1,0 +1,6 @@
+apply plugin: 'com.android.instantapp'
+
+dependencies {
+    implementation project(':heboShogiQuest01')
+    implementation project(':base')
+}

@@ -1,0 +1,1 @@
+include ':heboShogiQuest01', ':app', ':base', ':instantapp'
